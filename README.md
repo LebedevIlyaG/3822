@@ -13,8 +13,8 @@
 
 # Практические занятия
 
-Домашнее задание:
-Добавить в репозиторий просмотровые таблицы с тестами.
+Настройка git на компьютерах в 338:
+git config --global http.proxy http://userName:password@proxy.unn.ru:8080
 
 Ссылка для письма кода во время практики: https://repl.it/join/oltpbnid-lebedevilyag
 
