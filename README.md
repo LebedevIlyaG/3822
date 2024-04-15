@@ -21,7 +21,7 @@ git config --global http.proxy http://userName:password@proxy.unn.ru:8080
 |# | Название | Крайний срок |
 |-------------|-------------|-------------|
 |1|Алгебра полиномов|15.10.23|
-|2|Плексы|19.11.23|
+|2|Тексты|19.11.23|
 
 
 
@@ -54,7 +54,7 @@ https://us04web.zoom.us/j/78823321031?pwd=Qo8sldbbnKisxUl9ajiRxk0yn1qHA9.1
 Идентификатор конференции: 788 2332 1031
 Код доступа: xNPV17
 
-Тест: [https://forms.gle/vUvdZf8WRs3n5kpr8](https://forms.gle/h1cPHmjnyZeBk5Bz5)
+Тест: [[https://forms.gle/vUvdZf8WRs3n5kpr8](https://forms.gle/Vh7YjSZExHC2ZvyMA)]
 
 # Полезные ссылки:
 
